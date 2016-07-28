@@ -1,0 +1,12 @@
+/* .button automatically formats all the buttons that exists in the called JavaFX program */
+.button {
+    -fx-text-fill:linen;
+    -fx-font-family:"Arial Narrow";
+    -fx-font-weight:bold;
+    -fx-background-color:#ff1a41;
+}
+/* it's an ID selector, it has a pawn sign (#)*/
+#textstyle {
+    -fx-font: 40px "Arial";
+    -fx-fill:white;
+}
